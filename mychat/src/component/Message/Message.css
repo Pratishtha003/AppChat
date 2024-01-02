@@ -1,0 +1,22 @@
+.messageBox{
+    background-color: gainsboro;
+    width: 50%;
+    padding: 1vmax;
+    margin: 1.8vmax;
+    border-radius: 0.5vmax;
+    display: inline-block;
+    clear:both;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.right1{
+    float: right;
+    background-color:blanchedalmond;
+    color:palevioletred
+}
+
+.left1{
+    float:left;
+    background-color: palevioletred;
+    color: aliceblue;
+}
